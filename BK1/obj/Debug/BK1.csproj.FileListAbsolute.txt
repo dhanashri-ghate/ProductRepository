@@ -76,5 +76,5 @@ C:\Users\vaibh\source\repos\BK1\BK1\bin\EntityFramework.dll
 C:\Users\vaibh\source\repos\BK1\BK1\bin\EntityFramework.SqlServer.dll
 C:\Users\vaibh\source\repos\BK1\BK1\bin\EntityFramework.xml
 C:\Users\vaibh\source\repos\BK1\BK1\bin\EntityFramework.SqlServer.xml
-C:\Users\vaibh\source\repos\BK1\BK1\obj\Debug\BK1.Migrations.InitialMigration.resources
+C:\Users\vaibh\source\repos\BK1\BK1\obj\Debug\BK1.Migrations.InitialModel.resources
 C:\Users\vaibh\source\repos\BK1\BK1\obj\Debug\BK1.csproj.GenerateResource.cache
